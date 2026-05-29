@@ -1,37 +1,29 @@
 # master-thesis-grid-inertia
 Master's research on frequency stability and inertia challenges in modern power systems.
-# Electrical Engineering Portfolio
+# Impacts of Variable Renewable Energy Sources on Grid Inertia
 
-Collection of engineering activities and areas of expertise.
+Master's Thesis developed at the University of Coimbra.
 
-## Experience Areas
+## Overview
 
-### Electrical Installations
+The increasing penetration of renewable energy sources introduces new challenges to power system stability due to the reduction of synchronous generation and system inertia.
 
-- Load calculations
-- Cable sizing
-- Protection device selection
-- Technical documentation
+This work studies:
 
-### Technical Services
+- Grid inertia fundamentals
+- Renewable energy integration
+- Frequency stability
+- System requirements
+- Potential mitigation measures
 
-- Equipment diagnostics
-- Maintenance support
-- Technical troubleshooting
+## Topics Covered
 
-### Engineering Management
+- Power System Inertia
+- Frequency Control
+- Renewable Energy Integration
+- Grid Stability
+- Energy Transition
 
-- Team coordination
-- Technical supervision
-- Project support
+## Status
 
-## Software Tools
-
-- AutoCAD
-- MATLAB
-- Python
-- Microsoft Office
-
-## Note
-
-Detailed project documentation cannot be publicly shared due to confidentiality and ownership restrictions.
+Academic project completed in 2024.
